@@ -1,0 +1,10 @@
+table, th, td {
+    tab-size: 50px;
+    table-layout: auto;
+    border: 1px solid;
+  }
+  table{
+    width: 100%;
+  }
+
+  
